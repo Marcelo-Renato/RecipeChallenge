@@ -4,4 +4,12 @@
 ---
 
 * Practice HTML and CSS
-* Teste
+
+This project is a Lab project developed by RocketSeat with the purpose of studying and practicing your skills with the tutors.
+
+
+## Tech Stack
+
+* HTML
+* CSS
+
